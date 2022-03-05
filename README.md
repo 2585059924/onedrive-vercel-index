@@ -146,4 +146,4 @@ Open-source is hard! If you happen to like this project and want me to keep goin
 
 Authored and maintained by Spencer Woo.
 
-> [@Portfolio](https://spencerwoo.com/) · [@Blog](https://blog.spencerwoo.com/) · [@GitHub](https://github.com/spencerwooo)
+> [@Portfolio](https://spencerwoo.com/) · [@Blog](https://blog.spencerwoo.com/) · [@GitHub](https://github.com/spencerwooo
